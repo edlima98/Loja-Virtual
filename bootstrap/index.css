@@ -1,0 +1,22 @@
+body{
+	background-color: #181818;
+	color: white;
+}
+
+.abaOff {
+	display: none;
+}
+#produto-bone{
+	background-color: gray;
+}
+#opcoes{
+	text-align:center;
+}
+
+#linha{
+	background-color: gold;
+}
+
+#carouselExampleCaptions{
+	margin-top: 60px;
+}
